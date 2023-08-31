@@ -1,33 +1,41 @@
+// class Account {
+//     constructor ({ login, email }) {
+//     this.logins = login;
+//     this.emails = email;
+//     }
+
+//     getInfo () {
+//         console.log(this.logins);
+//         console.log(this.emails);
+// }
+// }
 
 
+
+
+
+
+
+
+// const Account = function (login, email) {
+//   this.logins = login;
+//   this.emails = email;
+// };
+// Account.prototype.getInfo = function () {
+//   console.log(this.logins);
+//   console.log(this.emails);
+// };
 // // function
 // const mango = new Account({
 //   login: "Mangozedog",
 //   email: "mango@dog.woof",
-//   getInfo () {
-//     const newUser = {
-//     login: login,
-//     email: email,
-//     };
-//   }
-  
 // });
-// // console.log(mango);
+
 // mango.getInfo(); // Login: Mangozedog, Email: mango@dog.woof
-// console.log(mango.getInfo());
+
 // const poly = new Account({
 //   login: "Poly",
 //   email: "poly@mail.com",
 // });
-// getInfo(poly.login, poly.email);
-// // poly.getInfo(); // Login: Poly, Email: poly@mail.com
 // // console.log(poly);
-
-// const petya = {
-//   username: "Petya",
-//   showName() {
-//     console.log(this.username);
-//   },
-// };
-
-// petya.showName();
+// poly.getInfo(); // Login: Poly, Email: poly@mail.com
