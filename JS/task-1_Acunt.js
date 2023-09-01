@@ -1,19 +1,3 @@
-// class Account {
-//     constructor ({ login, email }) {
-//     this.logins = login;
-//     this.emails = email;
-//     }
-
-//     getInfo () {
-//         console.log(this.logins);
-//         console.log(this.emails);
-// }
-// }
-
-
-
-
-
 
 
 
